@@ -9,7 +9,7 @@ Hi I am Vedant a 3rd Sem CSE Student ~~of PES University~~ *RR Campus*.
 - F1 <br>
 - Chess <br>
 - Cricket <br>
-- Coding** <br>
+- **Coding** <br>
 
 ## Codes
 
